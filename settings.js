@@ -50,14 +50,14 @@ global.email = "edikur.exe@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285155282285'] //premium user
-global.owner = ["6285155282285", "6285155276111"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6281272732362" // nomor wa kalian
+global.owner = ["6285155282285"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285155282285" // nomor wa kalian
 global.ownernomerr = "+6285155282285"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/1673722600948.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/qris.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = 'Megachan ' + botname //sticker wm ubah
+global.packname = '© ' + botname //sticker wm ubah
 global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
